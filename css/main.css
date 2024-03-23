@@ -13,6 +13,7 @@ Primary use:
 .logo {
   color: white;
   font-weight: bold;
+  padding: 18px 0px;
 }
 @font-face {
   font-family: Montserrat-Regular;
@@ -307,7 +308,7 @@ Primary use:
 
 /*---------------------------------------------*/
 .wrappic1 {
-  display: block;
+  display: inline-flex;
   flex-grow: 1;
 }
 
